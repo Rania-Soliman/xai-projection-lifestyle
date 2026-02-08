@@ -9,7 +9,7 @@ nutritional features shape the projection space, and how these features explain
 observed clusters, density variations, and outliers.
 
 ---
-
+ 
 ## Dataset
 
 The dataset consists of **20,000 samples** described by **54 features**, covering:
